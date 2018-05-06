@@ -18,6 +18,10 @@ public class Employee {
         return id;
     }
 
+    public long getResourceId() {
+        return id;
+    }
+
     public void setId(Long id) {
         this.id = id;
     }
