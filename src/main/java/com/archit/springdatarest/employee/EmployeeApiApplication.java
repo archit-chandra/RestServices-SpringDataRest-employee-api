@@ -1,4 +1,4 @@
-package com.archit.demo;
+package com.archit.springdatarest.employee;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
